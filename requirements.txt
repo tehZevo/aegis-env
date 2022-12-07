@@ -1,0 +1,4 @@
+numpy
+gym
+git+https://github.com/tehzevo/nd-to-json
+git+https://github.com/tehzevo/protopost-python
